@@ -45,7 +45,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Faire un fichier `/public/video/a-ignorer.txt`
 - Ajouter en fin de fichier `.gitignore` la ligne suivante :
   - `/public/video`
-- [ ] cocher et commit "ajout dossier à .gitignore"
+- [X] cocher et commit "ajout dossier à .gitignore"
 - Synchroniser les commit avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié sur Github
 
@@ -68,7 +68,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Faire une branche en cliquant en bas-à-gauche sur VSCode ; la nommer (en adaptant) _"votre-pseudo/test-branche"_
   - VSCode vous place automatiquement dans la nouvelle branche.
-- [ ] Cochez et commit : "1re commit dans branche"
+- [X] Cochez et commit : "1re commit dans branche"
 - [ ] Puis cochez et commit "2nd commit dans branche"
 - Regardez la liste des commits dans le volet Chronologie en bas de explorateur de VSCode
 
